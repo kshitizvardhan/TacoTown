@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node server.js"
+  },
   "name": "5.2-json",
   "version": "1.0.0",
   "description": "",
